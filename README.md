@@ -1,10 +1,14 @@
 ### 基础知识
 
 [函数](https://github.com/pengyancheng/javascript/basic/function.md)
-<br><br>
+<br>
 
 [前端性能优化——debounce](https://www.jianshu.com/p/e9acf55f8073)
-<br><br>
+<br>
+
+[如何理解debounce和throttle?](https://www.jianshu.com/p/daaa36174324)
+<br>
+
 
 ### 进阶玩法
 
