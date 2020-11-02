@@ -15,7 +15,7 @@
 
 ### 开发实战技巧
 
-[常见框架](https://github.com/pengyancheng/javascript/blob/master/basic/frame.md)
+[常见框架和js工具](https://github.com/pengyancheng/javascript/blob/master/develop/frame.md)
 <br>
 
 立即执行
