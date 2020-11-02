@@ -21,3 +21,9 @@ Immutable.js 由Facebook 工程师 Lee Byron 花费 3 年时间打造，在js中
 ### 不可变数据框架
 
 https://github.com/immutable-js/immutable-js
+
+Immutable.js提供了许多永久不可变数据结构，包括： List，Stack，Map，OrderedMap，Set，OrderedSet和Record。
+
+这些数据结构在现代JavaScript VM上非常有效，通过使用哈希映射尝试和向量尝试（通过Clojure和Scala推广）进行结构共享，从而最大限度地减少了复制或缓存数据的需求。
+
+Immutable.js还提供了lazy Seq，允许像这样的收集方法高效链接，map而filter无需创建中间表示。Seq用Range和创建一些Repeat。
