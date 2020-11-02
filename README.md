@@ -1,5 +1,8 @@
 ### 基础知识
 
+[不可变数据](https://github.com/pengyancheng/javascript/basic/immutable.md)
+<br>
+
 [函数](https://github.com/pengyancheng/javascript/basic/function.md)
 <br>
 
