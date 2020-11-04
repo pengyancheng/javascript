@@ -1,4 +1,7 @@
-### 基础理论知识
+### 基础理论语法知识
+
+[typeof 和 instanceof](https://github.com/pengyancheng/javascript/blob/master/basic/typeofandinstanceof.md)
+<br>
 
 [不可变数据](https://github.com/pengyancheng/javascript/blob/master/basic/immutable.md)
 <br>
