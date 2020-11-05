@@ -24,6 +24,12 @@
 
 ### 开发实战技巧
 
+[防抖动](https://github.com/pengyancheng/javascript/blob/master/develop/debounce.md)
+<br>
+
+[节流](https://github.com/pengyancheng/javascript/blob/master/develop/throttling.md)
+<br>
+
 [常见框架和js工具](https://github.com/pengyancheng/javascript/blob/master/develop/frame.md)
 <br>
 
