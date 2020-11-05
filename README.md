@@ -1,5 +1,8 @@
 ### 基础理论语法知识
 
+[Boolean类型转换规则](https://github.com/pengyancheng/javascript/blob/master/basic/boolean.md)
+<br>
+
 [typeof 和 instanceof](https://github.com/pengyancheng/javascript/blob/master/basic/typeofandinstanceof.md)
 <br>
 
