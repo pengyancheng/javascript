@@ -21,14 +21,16 @@
 ### 原型
 
 
-
-### 开发实战技巧
+### 性能优化
 
 [防抖动](https://github.com/pengyancheng/javascript/blob/master/develop/debounce.md)
 <br>
 
 [节流](https://github.com/pengyancheng/javascript/blob/master/develop/throttling.md)
 <br>
+
+### 开发实战技巧
+
 
 [常见框架和js工具](https://github.com/pengyancheng/javascript/blob/master/develop/frame.md)
 <br>
